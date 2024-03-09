@@ -87,7 +87,7 @@ function nextSequence() {
   if (level > 5) {
     var messages = [
       "To avail maximum discount use code DERE8",
-      "To avail maximum discount use code DEy9",
+      "To avail maximum discount use code DEY9",
       "To avail maximum discount use code PAUL31"
     ];
   
